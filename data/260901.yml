@@ -1,0 +1,63 @@
+about:
+  description: runs anywhere. uses anything
+  license: NOASSERTION
+  homepage: https://openclaude.gitlawb.com
+  head: 6c7efde
+  archived: false
+  latestVersion: v0.30.0
+  collectedAt: 2026-09-01T05:36:48Z
+timeline:
+  created: 2026-04-01
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-31
+popularity:
+  star: 30937
+  watcher: 219
+  fork: 8919
+  release: 42
+  contributor: 151
+  pullRequest: 417
+  issue: 616
+language:
+  TypeScript: 30281213
+  JavaScript: 196857
+  Astro: 61710
+  CSS: 20280
+  PowerShell: 5108
+  Tree-sitter Query: 4739
+  Dockerfile: 1280
+  Shell: 967
+totalLine: 30572154
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 4
+    mergedPR: 44
+    openPR: 17
+    closedIssue: 6
+    openIssue: 17
+    commit: 55
+  last90d:
+    since: 2026-06-03
+    release: 17
+    mergedPR: 422
+    openPR: 26
+    closedIssue: 103
+    openIssue: 33
+    commit: 446
+  last180d:
+    since: 2026-03-05
+    release: 42
+    mergedPR: 1025
+    openPR: 26
+    closedIssue: 574
+    openIssue: 42
+    commit: 1088
+  last360d:
+    since: 2025-09-06
+    release: 42
+    mergedPR: 1025
+    openPR: 26
+    closedIssue: 574
+    openIssue: 42
+    commit: 1088
