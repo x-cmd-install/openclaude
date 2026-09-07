@@ -5,18 +5,18 @@ about:
   head: 1afeb4b
   archived: false
   latestVersion: "v0.30.0"
-  collectedAt: 2026-09-07T05:43:33Z
+  collectedAt: 2026-09-07T18:48:17Z
 timeline:
   created: 2026-04-01
   lastCommit: 2026-09-07
   lastRelease: 2026-08-31
 popularity:
-  star: 32862
+  star: 32924
   watcher: 227
-  fork: 9061
+  fork: 9064
   release: 42
   contributor: 152
-  pullRequest: 1463
+  pullRequest: 1464
   issue: 620
 language:
   TypeScript: 30472113
@@ -33,7 +33,7 @@ recent:
     since: 2026-08-08
     release: 4
     mergedPR: 41
-    openPR: 22
+    openPR: 23
     closedIssue: 9
     openIssue: 19
     commit: 39
@@ -41,7 +41,7 @@ recent:
     since: 2026-07-09
     release: 8
     mergedPR: 145
-    openPR: 30
+    openPR: 31
     closedIssue: 33
     openIssue: 29
     commit: 136
@@ -49,7 +49,7 @@ recent:
     since: 2026-06-09
     release: 15
     mergedPR: 377
-    openPR: 33
+    openPR: 34
     closedIssue: 89
     openIssue: 36
     commit: 376
@@ -57,7 +57,7 @@ recent:
     since: 2026-03-11
     release: 42
     mergedPR: 1033
-    openPR: 33
+    openPR: 34
     closedIssue: 575
     openIssue: 45
     commit: 1096
@@ -65,7 +65,7 @@ recent:
     since: 2025-09-12
     release: 42
     mergedPR: 1033
-    openPR: 33
+    openPR: 34
     closedIssue: 575
     openIssue: 45
     commit: 1096
@@ -73,20 +73,20 @@ recent:
     since: 2024-09-17
     release: 42
     mergedPR: 1033
-    openPR: 33
+    openPR: 34
     closedIssue: 575
     openIssue: 45
     commit: 1203
 total:
   release: 42
   mergedPR: 1033
-  openPR: 33
+  openPR: 34
   closedIssue: 575
   openIssue: 45
   commit: 1203
 ---
 path: /home/runner/.x-repo/github.com/Gitlawb/openclaude
-collectedAt: 2026-09-07T05:43:43Z
+collectedAt: 2026-09-07T18:48:23Z
 loc:
   TypeScript:
     code: 569635
@@ -162,7 +162,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:43:59+00:00
+  collectedAt: 2026-09-07T18:48:24+00:00
   platform:
     darwin/arm64:
       name:  null
