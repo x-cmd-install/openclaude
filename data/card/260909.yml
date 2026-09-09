@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.30.0"
   latestRelease: "v0.30.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:50:44Z
+  collectedAt: 2026-09-09T20:22:04Z
 timeline:
   created: 2026-04-01
   lastCommit: 2026-09-07
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-08-31
   lastPrerelease: 
 popularity:
-  star: 33023
+  star: 33044
   watcher: 229
-  fork: 9069
+  fork: 9071
   release: 42
   contributor: 153
   pullRequest: 1467
@@ -90,7 +90,7 @@ total:
   commit: 1205
 ---
 path: /home/runner/.x-repo/github.com/Gitlawb/openclaude
-collectedAt: 2026-09-09T05:50:49Z
+collectedAt: 2026-09-09T20:22:12Z
 loc:
   TypeScript:
     code: 570506
