@@ -7,7 +7,7 @@ runs anywhere. uses anything
 - **Latest release**: `v0.30.0` (2026-08-31)
 - **Last commit**: 2026-09-07
 - **License**: NOASSERTION
-- **Stars**: 32993 · **Forks**: 9070 · **Open issues**: 620 · **Contributors**: 153
+- **Stars**: 33023 · **Forks**: 9069 · **Open issues**: 622 · **Contributors**: 153
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/openclaude> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:54:47Z._
+_Last regenerated: 2026-09-09T05:50:53Z._
