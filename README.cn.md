@@ -4,41 +4,13 @@
 
 runs anywhere. uses anything
 
-![openclaude](https://repo.x-cmd.io/openclaude.svg)
+![openclaude](https://repo.x-cmd.io/openclaude.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install openclaude
 ```
-
-## 源代码
-
-- **上游仓库**: <https://github.com/Gitlawb/openclaude>
-- **官网**: <https://openclaude.gitlawb.com>
-- **许可证**: NOASSERTION
-
-## 发布
-
-- **最新版本**: `v0.30.0` (2026-08-31)
-- **最近提交**: 2026-09-07
-- **发布时间**: 2026-08-31T02:25:05Z
-
-## 流行度
-
-- **Star**: 33,068 · **Fork**: 9,071 · **开放 issue**: 623 · **贡献者**: 153
-
-## 累计统计
-
-- **发布数**: 42 · **已合并 PR**: 1035 · **开放 PR**: 34 · **已关闭 issue**: 577 · **开放 issue**: 46 · **提交数**: 1205
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 4 | 36 | 22 | 9 | 19 | 41 |
-| 90d | 2026-06-12 | 14 | 362 | 34 | 85 | 37 | 378 |
-| 360d | 2025-09-15 | 42 | 1035 | 34 | 577 | 46 | 1098 |
 
 ## 代码规模
 
@@ -52,6 +24,40 @@ x install openclaude
 | Json | 675 | 0 | 0 | 11 |
 | Svg | 651 | 7 | 0 | 29 |
 
+## 源代码
+
+- **上游仓库**: <https://github.com/Gitlawb/openclaude>
+- **官网**: <https://openclaude.gitlawb.com>
+- **许可证**: NOASSERTION
+
+## 发布
+
+- **最新版本**: `v0.30.0` (2026-08-31)
+- **最近提交**: 2026-09-07
+
+## 流行度
+
+- **Star**: 33,107 · **Fork**: 9,078 · **开放 issue**: 623 · **贡献者**: 153
+
+## 累计统计
+
+- **发布数**: 42 · **已合并 PR**: 1035 · **开放 PR**: 34 · **已关闭 issue**: 577 · **开放 issue**: 46 · **提交数**: 1205
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 4 | 36 | 22 | 9 | 19 | 41 |
+| last60d | 2026-07-12 | 8 | 132 | 30 | 29 | 30 | 138 |
+| 90d | 2026-06-12 | 14 | 362 | 34 | 85 | 37 | 378 |
+| last180d | 2026-03-14 | 42 | 1035 | 34 | 577 | 46 | 1098 |
+| 360d | 2025-09-15 | 42 | 1035 | 34 | 577 | 46 | 1098 |
+| last720d | 2024-09-20 | 42 | 1035 | 34 | 577 | 46 | 1205 |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/openclaude) 上共有 **2** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**0** 个 ⚠️ 使用旧版本。
+
 ## 改进这些数据
 
 openclaude 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `openclaude` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -61,4 +67,4 @@ openclaude 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:58:05Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:22:53Z._
