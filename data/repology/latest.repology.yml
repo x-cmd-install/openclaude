@@ -1,0 +1,25 @@
+- repo: aosc
+  srcname: app-vibe/openclaude
+  binname: openclaude
+  visiblename: openclaude
+  version: 0.30.0
+  origversion: null
+  status: newest
+  summary: CLI agentic AI-coding assistant
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - utils
+- repo: aur
+  srcname: openclaude
+  binname: openclaude
+  visiblename: openclaude
+  version: 0.30.0
+  origversion: 0.30.0-1
+  status: newest
+  summary: OpenClaude is an open-source coding-agent CLI for cloud and local model providers.
+  maintainers:
+    - amog-us@aur
+  licenses:
+    - custom
+    - MIT
