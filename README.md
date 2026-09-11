@@ -37,7 +37,7 @@ Total: **730,102** lines of code across **3341** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 33,118 · **Forks**: 9,078 · **Open issues**: 623 · **Contributors**: 153
+- **Stars**: 33,133 · **Forks**: 9,081 · **Open issues**: 623 · **Contributors**: 153
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **730,102** lines of code across **3341** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 4 | 36 | 22 | 9 | 19 | 41 |
-| last60d | 2026-07-12 | 8 | 132 | 30 | 29 | 30 | 138 |
-| 90d | 2026-06-12 | 14 | 362 | 34 | 85 | 37 | 378 |
-| last180d | 2026-03-14 | 42 | 1035 | 34 | 577 | 46 | 1098 |
-| 360d | 2025-09-15 | 42 | 1035 | 34 | 577 | 46 | 1098 |
-| last720d | 2024-09-20 | 42 | 1035 | 34 | 577 | 46 | 1205 |
+| 30d | 2026-08-12 | 3 | 34 | 21 | 8 | 19 | 41 |
+| last60d | 2026-07-13 | 8 | 123 | 30 | 28 | 30 | 138 |
+| 90d | 2026-06-13 | 14 | 359 | 33 | 83 | 37 | 378 |
+| last180d | 2026-03-15 | 42 | 1035 | 34 | 577 | 46 | 1098 |
+| 360d | 2025-09-16 | 42 | 1035 | 34 | 577 | 46 | 1098 |
+| last720d | 2024-09-21 | 42 | 1035 | 34 | 577 | 46 | 1205 |
 
 ## Distribution status
 
@@ -67,4 +67,4 @@ Install metadata for openclaude lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T23:33:15Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T05:57:22Z._
