@@ -4,7 +4,7 @@
 
 runs anywhere. uses anything
 
-![openclaude](https://repo.x-cmd.io/openclaude.svg?lang=zh)
+[![x-cmd/install — openclaude Code Quality Monitoring Repo Card](https://repo.x-cmd.io/openclaude.svg?lang=zh)](https://x-cmd.com/install/openclaude)
 
 ## 安装
 
@@ -37,22 +37,22 @@ x install openclaude
 
 ## 流行度
 
-- **Star**: 33,398 · **Fork**: 9,089 · **开放 issue**: 626 · **贡献者**: 154
+- **Star**: 33,439 · **Fork**: 9,098 · **开放 issue**: 627 · **贡献者**: 154
 
 ## 累计统计
 
-- **发布数**: 42 · **已合并 PR**: 1039 · **开放 PR**: 34 · **已关闭 issue**: 581 · **开放 issue**: 45 · **提交数**: 1209
+- **发布数**: 42 · **已合并 PR**: 1039 · **开放 PR**: 37 · **已关闭 issue**: 581 · **开放 issue**: 46 · **提交数**: 1209
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 24 | 20 | 8 | 15 | 28 |
-| last60d | 2026-07-20 | 7 | 90 | 28 | 22 | 26 | 111 |
-| 90d | 2026-06-20 | 13 | 280 | 33 | 72 | 33 | 327 |
-| last180d | 2026-03-22 | 42 | 1039 | 34 | 581 | 45 | 1102 |
-| 360d | 2025-09-23 | 42 | 1039 | 34 | 581 | 45 | 1102 |
-| last720d | 2024-09-28 | 42 | 1039 | 34 | 581 | 45 | 1209 |
+| 30d | 2026-08-21 | 1 | 21 | 22 | 8 | 15 | 28 |
+| last60d | 2026-07-22 | 6 | 87 | 30 | 22 | 27 | 111 |
+| 90d | 2026-06-22 | 13 | 269 | 36 | 68 | 34 | 327 |
+| last180d | 2026-03-24 | 42 | 1039 | 37 | 581 | 46 | 1102 |
+| 360d | 2025-09-25 | 42 | 1039 | 37 | 581 | 46 | 1102 |
+| last720d | 2024-09-30 | 42 | 1039 | 37 | 581 | 46 | 1209 |
 
 ## 改进这些数据
 
@@ -63,4 +63,4 @@ openclaude 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:03:53Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:09:59Z._

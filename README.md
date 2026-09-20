@@ -4,7 +4,7 @@
 
 runs anywhere. uses anything
 
-![openclaude](https://repo.x-cmd.io/openclaude.svg)
+[![x-cmd/install — openclaude Code Quality Monitoring Repo Card](https://repo.x-cmd.io/openclaude.svg)](https://x-cmd.com/install/openclaude)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **732,888** lines of code across **3351** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 33,398 · **Forks**: 9,089 · **Open issues**: 626 · **Contributors**: 154
+- **Stars**: 33,439 · **Forks**: 9,098 · **Open issues**: 627 · **Contributors**: 154
 
 ## Totals (cumulative)
 
-- **Releases**: 42 · **Merged PRs**: 1039 · **Open PRs**: 34 · **Closed issues**: 581 · **Open issues**: 45 · **Commits**: 1209
+- **Releases**: 42 · **Merged PRs**: 1039 · **Open PRs**: 37 · **Closed issues**: 581 · **Open issues**: 46 · **Commits**: 1209
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 24 | 20 | 8 | 15 | 28 |
-| last60d | 2026-07-20 | 7 | 90 | 28 | 22 | 26 | 111 |
-| 90d | 2026-06-20 | 13 | 280 | 33 | 72 | 33 | 327 |
-| last180d | 2026-03-22 | 42 | 1039 | 34 | 581 | 45 | 1102 |
-| 360d | 2025-09-23 | 42 | 1039 | 34 | 581 | 45 | 1102 |
-| last720d | 2024-09-28 | 42 | 1039 | 34 | 581 | 45 | 1209 |
+| 30d | 2026-08-21 | 1 | 21 | 22 | 8 | 15 | 28 |
+| last60d | 2026-07-22 | 6 | 87 | 30 | 22 | 27 | 111 |
+| 90d | 2026-06-22 | 13 | 269 | 36 | 68 | 34 | 327 |
+| last180d | 2026-03-24 | 42 | 1039 | 37 | 581 | 46 | 1102 |
+| 360d | 2025-09-25 | 42 | 1039 | 37 | 581 | 46 | 1102 |
+| last720d | 2024-09-30 | 42 | 1039 | 37 | 581 | 46 | 1209 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for openclaude lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:03:52Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:09:59Z._
