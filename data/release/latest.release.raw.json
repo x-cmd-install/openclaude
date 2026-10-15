@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/Twigpine/openclaude/releases/410125385",
-  "assets_url": "https://api.github.com/repos/Twigpine/openclaude/releases/410125385/assets",
-  "upload_url": "https://uploads.github.com/repos/Twigpine/openclaude/releases/410125385/assets{?name,label}",
-  "html_url": "https://github.com/Twigpine/openclaude/releases/tag/v0.32.0",
-  "id": 410125385,
+  "url": "https://api.github.com/repos/Twigpine/openclaude/releases/413301064",
+  "assets_url": "https://api.github.com/repos/Twigpine/openclaude/releases/413301064/assets",
+  "upload_url": "https://uploads.github.com/repos/Twigpine/openclaude/releases/413301064/assets{?name,label}",
+  "html_url": "https://github.com/Twigpine/openclaude/releases/tag/v0.33.0",
+  "id": 413301064,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,32 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOR2fj6M4YcgRJ",
-  "tag_name": "v0.32.0",
-  "target_commitish": "88baafe316d610f8f7eadcc186ecd044e718a1b9",
-  "name": "v0.32.0",
+  "node_id": "RE_kwDOR2fj6M4YonlI",
+  "tag_name": "v0.33.0",
+  "target_commitish": "864fdab6fb0f24e552159411db91f6ef01c789a9",
+  "name": "v0.33.0",
   "draft": false,
   "immutable": true,
   "prerelease": false,
-  "created_at": "2026-10-12T03:33:10Z",
-  "updated_at": "2026-10-12T03:33:26Z",
-  "published_at": "2026-10-12T03:33:26Z",
+  "created_at": "2026-10-15T00:32:43Z",
+  "updated_at": "2026-10-15T00:33:00Z",
+  "published_at": "2026-10-15T00:33:00Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/Twigpine/openclaude/tarball/v0.32.0",
-  "zipball_url": "https://api.github.com/repos/Twigpine/openclaude/zipball/v0.32.0",
-  "body": "## [0.32.0](https://github.com/Twigpine/openclaude/compare/v0.31.0...v0.32.0) (2026-10-12)\n\n\n### Features\n\n* add AnySearch as an explicit web search backend ([#2261](https://github.com/Twigpine/openclaude/issues/2261)) ([5bc160f](https://github.com/Twigpine/openclaude/commit/5bc160fb8bd89d18a7f75da0eef3eae5a72fbb73))\n* **gateway:** add API Route hybrid gateway ([#2225](https://github.com/Twigpine/openclaude/issues/2225)) ([9a2910d](https://github.com/Twigpine/openclaude/commit/9a2910da236395d259c72c3b4ddf92278625a6c1))\n* publish as @twigpine/openclaude ([#2269](https://github.com/Twigpine/openclaude/issues/2269)) ([50d4058](https://github.com/Twigpine/openclaude/commit/50d4058861d6fb0f2348a7836d1b80a26f70d30e))\n* **search:** make Exa the default web search backend and add /search ([#2257](https://github.com/Twigpine/openclaude/issues/2257)) ([790c009](https://github.com/Twigpine/openclaude/commit/790c009ae95bcb0cc55d85ae7c1f08f386e81214))\n\n\n### Bug Fixes\n\n* **api:** validate retry count environment values ([#2172](https://github.com/Twigpine/openclaude/issues/2172)) ([76b12a6](https://github.com/Twigpine/openclaude/commit/76b12a64fc2e2aaca1979769e084cbb04c405a6c))\n* **hooks:** match the .sh suffix case-insensitively on Windows ([#2254](https://github.com/Twigpine/openclaude/issues/2254)) ([53c7ed9](https://github.com/Twigpine/openclaude/commit/53c7ed9c51d96a81d8e38c2162f4e1fede64cbeb))\n* **openai-shim:** keep terminal usage from a repeated finish_reason ([#2252](https://github.com/Twigpine/openclaude/issues/2252)) ([10254f4](https://github.com/Twigpine/openclaude/commit/10254f4140f0eec1d2e15cee0de6020e55f288b9))\n* **openai-shim:** strip store for Anthropic models on OpenAI-compatible routes ([#2242](https://github.com/Twigpine/openclaude/issues/2242)) ([#2247](https://github.com/Twigpine/openclaude/issues/2247)) ([0bef4d2](https://github.com/Twigpine/openclaude/commit/0bef4d22309ebe9200beca75a62525ddc97b713b))\n\n\n### Performance Improvements\n\n* **read:** dedup touched-but-identical files and covered sub-ranges ([#2259](https://github.com/Twigpine/openclaude/issues/2259)) ([5ff58c4](https://github.com/Twigpine/openclaude/commit/5ff58c4ff9807b48a093a3154abb3be5e180fd3b))",
-  "reactions": {
-    "url": "https://api.github.com/repos/Twigpine/openclaude/releases/410125385/reactions",
-    "total_count": 2,
-    "+1": 2,
-    "-1": 0,
-    "laugh": 0,
-    "hooray": 0,
-    "confused": 0,
-    "heart": 0,
-    "rocket": 0,
-    "eyes": 0
-  }
+  "tarball_url": "https://api.github.com/repos/Twigpine/openclaude/tarball/v0.33.0",
+  "zipball_url": "https://api.github.com/repos/Twigpine/openclaude/zipball/v0.33.0",
+  "body": "## [0.33.0](https://github.com/Twigpine/openclaude/compare/v0.32.0...v0.33.0) (2026-10-14)\n\n\n### Features\n\n* **provider:** add GMI Cloud as a provider and official partner ([#2279](https://github.com/Twigpine/openclaude/issues/2279)) ([e736c28](https://github.com/Twigpine/openclaude/commit/e736c28257d614558e22219e138d3f984b3e658d))\n* **sessions:** add /sessions to resume or delete saved conversations ([#2262](https://github.com/Twigpine/openclaude/issues/2262)) ([fc3be25](https://github.com/Twigpine/openclaude/commit/fc3be25e2549698a21571f4f773d8b32a643bece))\n\n\n### Bug Fixes\n\n* **statusline:** reset context usage after full compaction ([#2275](https://github.com/Twigpine/openclaude/issues/2275)) ([fc82603](https://github.com/Twigpine/openclaude/commit/fc826031aef42d7d8627c48cca9159faa10146c6))"
 }
