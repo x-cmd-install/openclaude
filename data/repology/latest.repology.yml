@@ -2,9 +2,9 @@
   srcname: app-vibe/openclaude
   binname: openclaude
   visiblename: openclaude
-  version: 0.30.0
+  version: 0.33.0
   origversion: null
-  status: outdated
+  status: newest
   summary: CLI agentic AI-coding assistant
   maintainers:
     - fallback-mnt-aosc@repology
