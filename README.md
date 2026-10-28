@@ -14,13 +14,13 @@ x install openclaude
 
 ## Code insight
 
-Total: **777,710** lines of code across **3499** files in the top 5 languages.
+Total: **776,199** lines of code across **3490** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 614,919 | 91,137 | 66,083 | 2754 |
-| Tsx | 153,829 | 14,345 | 6,673 | 652 |
-| JavaScript | 6,342 | 295 | 597 | 46 |
+| TypeScript | 615,137 | 91,135 | 66,044 | 2756 |
+| Tsx | 151,873 | 14,247 | 6,645 | 640 |
+| JavaScript | 6,569 | 298 | 601 | 47 |
 | Json | 873 | 0 | 0 | 14 |
 | Svg | 679 | 7 | 0 | 33 |
 
@@ -37,22 +37,22 @@ Total: **777,710** lines of code across **3499** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 34,165 · **Forks**: 9,129 · **Open issues**: 652 · **Contributors**: 173
+- **Stars**: 34,181 · **Forks**: 9,131 · **Open issues**: 652 · **Contributors**: 173
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 1207 · **Open PRs**: 11 · **Closed issues**: 607 · **Open issues**: 45 · **Commits**: 1378
+- **Releases**: 45 · **Merged PRs**: 1232 · **Open PRs**: 10 · **Closed issues**: 608 · **Open issues**: 44 · **Commits**: 1403
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-28 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-29 | 8 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-30 | 33 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-01 | 45 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-06 | 45 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-28 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-29 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-30 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-01 | 33 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-02 | 45 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-07 | 45 | 0 | 0 | 0 | 0 | 0 |
 
 ## Distribution status
 
@@ -67,4 +67,4 @@ Install metadata for openclaude lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T06:03:21Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T06:45:17Z._
