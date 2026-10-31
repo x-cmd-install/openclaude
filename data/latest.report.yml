@@ -2,28 +2,28 @@ about:
   description: "runs anywhere. uses anything"
   license: NOASSERTION
   homepage: https://openclaude.twigpine.com
-  head: d0b464e
+  head: beecf58
   archived: false
   latestVersion: "v0.33.0"
   latestRelease: "v0.33.0"
   latestPrerelease: ""
-  collectedAt: 2026-10-30T06:50:56Z
+  collectedAt: 2026-10-31T06:48:47Z
 timeline:
   created: 2026-04-01
-  lastCommit: 2026-10-30
+  lastCommit: 2026-10-31
   lastVersion: 2026-10-15
   lastRelease: 2026-10-15
   lastPrerelease: 
 popularity:
-  star: 34214
+  star: 34217
   watcher: 219
-  fork: 9130
+  fork: 9127
   release: 45
   contributor: 175
-  pullRequest: 1680
-  issue: 653
+  pullRequest: 1682
+  issue: 654
 language:
-  TypeScript: 32735532
+  TypeScript: 32884974
   JavaScript: 265160
   Astro: 63156
   CSS: 20283
@@ -31,10 +31,10 @@ language:
   Tree-sitter Query: 4739
   Dockerfile: 1280
   Shell: 967
-totalBytes: 33096226
+totalBytes: 33245668
 recent:
   last30d:
-    since: 2026-09-30
+    since: 2026-10-01
     release: 2
     mergedPR: 0
     openPR: 0
@@ -42,15 +42,15 @@ recent:
     openIssue: 0
     commit: 0
   last60d:
-    since: 2026-08-31
-    release: 4
+    since: 2026-09-01
+    release: 3
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
     commit: 0
   last90d:
-    since: 2026-08-01
+    since: 2026-08-02
     release: 7
     mergedPR: 0
     openPR: 0
@@ -58,7 +58,7 @@ recent:
     openIssue: 0
     commit: 0
   last180d:
-    since: 2026-05-03
+    since: 2026-05-04
     release: 32
     mergedPR: 0
     openPR: 0
@@ -66,7 +66,7 @@ recent:
     openIssue: 0
     commit: 0
   last360d:
-    since: 2025-11-04
+    since: 2025-11-05
     release: 45
     mergedPR: 0
     openPR: 0
@@ -74,7 +74,7 @@ recent:
     openIssue: 0
     commit: 0
   last720d:
-    since: 2024-11-09
+    since: 2024-11-10
     release: 45
     mergedPR: 0
     openPR: 0
@@ -83,22 +83,22 @@ recent:
     commit: 0
 total:
   release: 45
-  mergedPR: 1248
-  openPR: 5
-  closedIssue: 612
-  openIssue: 41
-  commit: 1419
+  mergedPR: 1251
+  openPR: 4
+  closedIssue: 622
+  openIssue: 32
+  commit: 1422
 ---
 path: /home/runner/.x-repo/github.com/Gitlawb/openclaude
-collectedAt: 2026-10-30T06:51:02Z
+collectedAt: 2026-10-31T06:48:52Z
 loc:
   TypeScript:
-    code: 619906
-    comments: 91773
-    blanks: 66553
-    files: 2778
+    code: 622607
+    comments: 92302
+    blanks: 66730
+    files: 2782
   Tsx:
-    code: 151970
+    code: 151971
     comments: 14252
     blanks: 6657
     files: 640
@@ -149,7 +149,7 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 6845
+    comments: 6858
     blanks: 2410
     files: 36
   Text:
@@ -158,10 +158,10 @@ loc:
     blanks: 11
     files: 5
 total:
-  code: 782302
-  comments: 113344
-  blanks: 76489
-  files: 3563
+  code: 785004
+  comments: 113886
+  blanks: 76666
+  files: 3567
 ---
 
 ---
