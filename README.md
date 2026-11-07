@@ -14,11 +14,11 @@ x install openclaude
 
 ## Code insight
 
-Total: **785,714** lines of code across **3524** files in the top 5 languages.
+Total: **785,772** lines of code across **3524** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 624,219 | 92,469 | 66,866 | 2788 |
+| TypeScript | 624,277 | 92,471 | 66,870 | 2788 |
 | Tsx | 151,972 | 14,252 | 6,657 | 640 |
 | JavaScript | 6,902 | 309 | 603 | 49 |
 | Json | 873 | 0 | 0 | 14 |
@@ -33,26 +33,26 @@ Total: **785,714** lines of code across **3524** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.34.0` (2026-11-02)
-- **Last commit**: 2026-11-05
+- **Last commit**: 2026-11-06
 
 ## Popularity
 
-- **Stars**: 34,285 · **Forks**: 9,131 · **Open issues**: 654 · **Contributors**: 178
+- **Stars**: 34,300 · **Forks**: 9,130 · **Open issues**: 654 · **Contributors**: 179
 
 ## Totals (cumulative)
 
-- **Releases**: 46 · **Merged PRs**: 1258 · **Open PRs**: 2 · **Closed issues**: 624 · **Open issues**: 30 · **Commits**: 1429
+- **Releases**: 46 · **Merged PRs**: 1259 · **Open PRs**: 1 · **Closed issues**: 624 · **Open issues**: 30 · **Commits**: 1430
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-07 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-08 | 8 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-10 | 30 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-11 | 46 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-16 | 46 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-08 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-08 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-09 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-11 | 30 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-12 | 46 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-17 | 46 | 0 | 0 | 0 | 0 | 0 |
 
 ## Distribution status
 
@@ -67,4 +67,4 @@ Install metadata for openclaude lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:44:44Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:59:34Z._
