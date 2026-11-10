@@ -14,12 +14,12 @@ x install openclaude
 
 ## Code insight
 
-Total: **785,772** lines of code across **3524** files in the top 5 languages.
+Total: **788,009** lines of code across **3524** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 624,277 | 92,471 | 66,870 | 2788 |
-| Tsx | 151,972 | 14,252 | 6,657 | 640 |
+| TypeScript | 626,441 | 92,809 | 67,057 | 2788 |
+| Tsx | 152,045 | 14,255 | 6,665 | 640 |
 | JavaScript | 6,902 | 309 | 603 | 49 |
 | Json | 873 | 0 | 0 | 14 |
 | Svg | 679 | 7 | 0 | 33 |
@@ -32,27 +32,27 @@ Total: **785,772** lines of code across **3524** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.34.0` (2026-11-02)
-- **Last commit**: 2026-11-06
+- **Latest**: `v0.35.1` (2026-11-09)
+- **Last commit**: 2026-11-10
 
 ## Popularity
 
-- **Stars**: 34,303 · **Forks**: 9,133 · **Open issues**: 655 · **Contributors**: 179
+- **Stars**: 34,314 · **Forks**: 9,127 · **Open issues**: 653 · **Contributors**: 180
 
 ## Totals (cumulative)
 
-- **Releases**: 46 · **Merged PRs**: 1259 · **Open PRs**: 1 · **Closed issues**: 623 · **Open issues**: 32 · **Commits**: 1430
+- **Releases**: 48 · **Merged PRs**: 1268 · **Open PRs**: 7 · **Closed issues**: 623 · **Open issues**: 30 · **Commits**: 1439
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-09 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-10 | 8 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-12 | 29 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-13 | 46 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-18 | 46 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-11 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-11 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-12 | 9 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-14 | 31 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-15 | 48 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-20 | 48 | 0 | 0 | 0 | 0 | 0 |
 
 ## Distribution status
 
@@ -67,4 +67,4 @@ Install metadata for openclaude lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T07:03:31Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:27:39Z._
