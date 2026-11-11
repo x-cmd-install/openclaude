@@ -14,12 +14,12 @@ x install openclaude
 
 ## Code insight
 
-Total: **788,009** lines of code across **3524** files in the top 5 languages.
+Total: **791,904** lines of code across **3544** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 626,441 | 92,809 | 67,057 | 2788 |
-| Tsx | 152,045 | 14,255 | 6,665 | 640 |
+| TypeScript | 629,393 | 93,044 | 67,349 | 2803 |
+| Tsx | 152,988 | 14,280 | 6,733 | 645 |
 | JavaScript | 6,902 | 309 | 603 | 49 |
 | Json | 873 | 0 | 0 | 14 |
 | Svg | 679 | 7 | 0 | 33 |
@@ -37,22 +37,22 @@ Total: **788,009** lines of code across **3524** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 34,314 · **Forks**: 9,127 · **Open issues**: 653 · **Contributors**: 180
+- **Stars**: 34,321 · **Forks**: 9,128 · **Open issues**: 653 · **Contributors**: 180
 
 ## Totals (cumulative)
 
-- **Releases**: 48 · **Merged PRs**: 1268 · **Open PRs**: 7 · **Closed issues**: 623 · **Open issues**: 30 · **Commits**: 1439
+- **Releases**: 48 · **Merged PRs**: 1271 · **Open PRs**: 6 · **Closed issues**: 624 · **Open issues**: 29 · **Commits**: 1442
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-11 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-12 | 9 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-14 | 31 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-15 | 48 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-20 | 48 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-12 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-12 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-13 | 9 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-15 | 30 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-16 | 48 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-21 | 48 | 0 | 0 | 0 | 0 | 0 |
 
 ## Distribution status
 
@@ -67,4 +67,4 @@ Install metadata for openclaude lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T08:27:39Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:21:11Z._
